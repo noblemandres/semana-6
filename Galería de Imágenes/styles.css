@@ -15,7 +15,6 @@ body {
     border-radius: 90rem;
     background-color: black;
     padding: 5px;
-    box-shadow: 2px 3px #bb17176c;
+    box-shadow: 2px 3px #177fbb6c;
     transition-duration: 5s;
-
 }
