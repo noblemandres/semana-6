@@ -9,11 +9,12 @@ body {
 }
 
 .link-button {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
+    color: white;
+    border-radius: 90rem;
+    background-color: black;
     padding: 5px;
-    border-radius: 5px;
-    box-shadow: 2px 3px #888888;
+    box-shadow: 2px 3px #177fbb6c;
+    transition-duration: 5s;
 }
