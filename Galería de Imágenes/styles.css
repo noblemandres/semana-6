@@ -1,5 +1,7 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-image: url("https://img.freepik.com/vector-premium/lineas-circuito-abstracto-tecnologia-futurista-fondo-alta-tecnologia-digital-ilustracion-vectorial_115579-1746.jpg");
+    background-size:contain ;
+    background-position: center;
 }
 
 .image{
